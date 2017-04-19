@@ -497,4 +497,3 @@ $("#flip3").on("dblclick", function() {
 // // var origin = "origin=Disneyland&";
 // // var destination ="destination=Universal+Studios+Hollywood4";
 // // var queryURL = "https://maps.googleapis.com/maps/api/directions/json?&"  + origin + destination +  googleMapsKey;
-
